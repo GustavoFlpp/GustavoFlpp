@@ -3,8 +3,8 @@
 - 🔭 Hoje trabalho com FullStack
 - 🌱 Estudando React e Java
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFlpp&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoFlpp&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFlpp&theme=dracula)](https://github.com/GustavoFlpp?tab=repositories)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoFlpp&theme=dracula)](https://github.com/GustavoFlpp?tab=repositories)
 
 
 ##
