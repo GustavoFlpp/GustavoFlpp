@@ -9,8 +9,6 @@ Desenvolvedor Full-Stack focado em Automação de Processos. Minha especialidade
 - ⚙️ **Automação & Backend:** Especialista em mapear gargalos operacionais e resolvê-los com Node.js e automações em Python (Selenium, Pandas) para otimizar fluxos de trabalho.
 - 🎓 **Formação:** Graduando em Engenharia de Software pela PUC Minas e Técnico em Informática pelo SENAC.
 
----
-
 ## 🛠️ Tecnologias e Ferramentas
 
 ### • Desenvolvimento Full-Stack (Front & Back)
@@ -31,7 +29,12 @@ Desenvolvedor Full-Stack focado em Automação de Processos. Minha especialidade
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Metodologias Ágeis](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
----
+## 📊 Estatísticas e Atividade
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFlpp&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoFlpp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+</div>
 
 ## 📫 Vamos Conversar?
 <div align="center">
